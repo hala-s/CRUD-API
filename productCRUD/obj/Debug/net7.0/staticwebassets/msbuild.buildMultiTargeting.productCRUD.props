@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\productCRUD.props" />
+</Project>
